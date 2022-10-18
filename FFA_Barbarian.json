@@ -1,4 +1,24 @@
-{
+{"_meta": {
+		"sources": [
+			{
+				"json": "Fateforge: Adventurers Corebook",
+				"abbreviation": "FFA",
+				"full": "Fateforge: Adventurers Corebook",
+				"authors": [
+					"Studio Agate"
+				],
+				"convertedBy": [
+					"Nivrelin#1337"
+				],
+				"url": "https://raw.githubusercontent.com/Nivrelin/FFA/main/FFA_Barbarian.json",
+				"version": "initial",
+				"color": "867d5a"
+			}
+		],
+		"dateAdded": 1595181963,
+		"dateLastModified": 1655302828,
+		"_dateLastModifiedHash": "0539b074a4"
+	},
   "class": [
     {
       "name": "Barbarian",
@@ -621,7 +641,6 @@
       "name": "Rage",
       "source": "PHB",
       "page": 46,
-      
       "className": "Barbarian",
       "classSource": "FFA",
       "level": 1,
