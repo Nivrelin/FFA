@@ -626,13 +626,13 @@
       "source": "FFA",
       "className": "Barbarian",
       "classSource": "FFA",
-      "page": 1,
+      "page": 124,
       "subclassFeatures": [
-        "Path of the Wizard Slayer|Barbarian||Wizard Slayer||3",
-        "Indomitable Soul|Barbarian||Wizard Slayer||6",
-        "Destructive Hatred|Barbarian||Wizard Slayer||10",
-        "Primordial Scent|Barbarian||Wizard Slayer||10",
-        "Disrupting Strike|Barbarian||Wizard Slayer||14"
+        "Path of the Wizard Slayer|Barbarian|FFA|Wizard Slayer|FFA|3|FFA",
+        "Indomitable Soul|Barbarian|FFA|Wizard Slayer|FFA|6|FFA",
+        "Destructive Hatred|Barbarian|FFA|Wizard Slayer|FFA|10|FFA",
+        "Primordial Scent|Barbarian|FFA|Wizard Slayer|FFA|10|FFA",
+        "Disrupting Strike|Barbarian|FFA|Wizard Slayer|FFA|14|FFA"
       ]
     }
   ],
@@ -974,7 +974,7 @@
         "Among certain superstitious tribes, spellcasters and their black magic are perceived as aberrations of nature, responsible for the corruption of the world and the rise of monsters and maladies. The rage of these barbarians primarily goes toward magic users and their minions, particularly those on the side of their enemies. They believe Awakened people are at risk of being possessed by evil entities, and thus they must be disposed of at the slightest hint of deviance, before their accursed powers lead the world into darkness.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Spellbreaking Rage|Barbarian||Wizard Slayer||3"
+          "subclassFeature": "Spellbreaking Rage|Barbarian|FFA|Wizard Slayer|FFA|3"
         }
       ]
     },
@@ -1001,7 +1001,6 @@
       "subclassShortName": "Wizard Slayer",
       "subclassSource": "FFA",
       "level": 6,
-      "header": 2,
       "entries": [
         "Beginning at 6th level, while raging, whenever a spell should subject you to one or several conditions, you can use your reaction to immediately cancel the conditions you should have suffered. You can only use this feature once per rage."
       ]
@@ -1015,7 +1014,6 @@
       "subclassShortName": "Wizard Slayer",
       "subclassSource": "FFA",
       "level": 10,
-      "header": 2,
       "entries": [
         "Starting at 10th level, while raging you have advantage on attack rolls against creatures that have cast a spell (innate or not) or used a power specifically described as magic during their last turn."
       ]
@@ -1029,7 +1027,6 @@
       "subclassShortName": "Wizard Slayer",
       "subclassSource": "FFA",
       "level": 10,
-      "header": 2,
       "entries": [
         "Also at 10th level, you become able to sniff out residual magic and Awakened individuals. This is not a magical ability, and thus, immunity against divination offers no protection against your primordial scent. You can use this feature in three ways:",
         "- As a bonus action, you can designate a creature you can see within 60 feet and immediately know whether it has Awakened and is therefore capable of casting spells. If the creature has Awakened, you have advantage to saving throws against its spells for 10 minutes.",
@@ -1047,7 +1044,6 @@
       "subclassShortName": "Wizard Slayer",
       "subclassSource": "FFA",
       "level": 14,
-      "header": 2,
       "entries": [
         "Beginning at 14th level, while raging, every time you make a successful melee attack against an Awakened creature, you can disrupt its magical abilities. This renders the creature unable to cast spells or use magical abilities until the start of your next turn. If you use disrupting strike against a creature unable to use magical abilities, nothing happens, but this still expends a use of this feature. You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a short or long rest."
       ]
