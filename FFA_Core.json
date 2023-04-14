@@ -606,7 +606,7 @@
 				"Speak with Dead",
 				"Speak with Plants",
 				"Stinking Cloud|FateforgeGrimoire-SRDx",
-				"Tiny Hut",
+				"Tiny Hut|FFA",
 				"Tongues|FateforgeGrimoire-SRDx",
 				"Tyranny|FFA"
 
@@ -1900,6 +1900,20 @@
 			"areaTags": [
 				"S"
 			]
+		},
+		{
+			"name": "Tiny Hut",
+			"source": "FFA",
+			"page": 264,
+			"otherSources": [
+				{
+					"source": "PHB"
+				}
+			],
+			"_copy": {
+				"name": "Leomund's Tiny Hut",
+				"source": "PHB"
+			}
 		}
 	
 	],
