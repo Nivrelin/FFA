@@ -608,10 +608,71 @@
 				"Stinking Cloud|FateforgeGrimoire-SRDx",
 				"Tiny Hut",
 				"Tongues|FateforgeGrimoire-SRDx",
-				"Tyranny|FateforgeGrimoire"
+				"Tyranny|FFA"
 
 
 			],
+"spell": [
+	{
+		"name": "Tyranny",
+		"source": "FFA",
+		"page": 267,
+		"level": 3,
+		"school": "E",
+		"time": [
+			{
+				"number": 1,
+				"unit": "action"
+			}
+		],
+		"range": {
+			"type": "radius",
+			"distance": {
+				"type": "feet",
+				"amount" : 20
+			}
+		},
+		"duration": [
+			{
+				"type": "timed",
+				"duration": {
+					"type": "minute",
+					"amount": 10,
+					"upTo": true
+				},
+				"concentration": true
+			}
+		],
+		"entries": [
+			"Despotic energy radiates from you in an aura with a 20-foot radius. Until the spell ends, the aura moves with you, centered on you. Once per round on your turn, you can issue an order to a creature in the aura. If the creature understands the order, it can choose to obey it without question. If it refuses the order, is must make a Charisma saving throw or take {@damage 5d6} psychic damage. A successful save halves the damage. Creatures immune to being frightened aren't affected by this spell.",
+			"The order must be contained in a single word. A creautre that obeys your order must dedicate its next to executing it (see the command spell). If, for any reason, the target is prevented from following your command, it remains inactive on its turn but does not take damage as described above." 
+		],
+		"entriesHigherLevel": [
+			{
+				"type": "entries",
+				"name": "At Higher Levels",
+				"entries": [
+					"When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and the radius increases by 10 feet for each slot above 3rd."
+				]
+			}		
+		],
+		"damageInflict" :[ "psychic"
+		],
+		"savingThrow": [
+			"charisma"
+		],
+		"components": {
+			"v":true,
+			"s":true,
+			"m": "a riding crop"
+		},
+		"areaTags": [
+			"S"
+		]
+	}
+
+],
+
 			"classFeatures": [
 				"Bardic Inspiration|Bard|FFA|1",
 
