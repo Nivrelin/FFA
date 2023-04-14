@@ -16,7 +16,7 @@
 			"color": "867d5a"
 		}],
 		"dateAdded": 1595181963,
-		"dateLastModified": 1681505075
+		"dateLastModified": 1681506152
 		
 	},
 	"class": [
@@ -635,9 +635,24 @@
 				"Raise Dead",
 				"Scrying",
 				"Seeming",
-				"Teleportation Circle"
-
-
+				"Teleportation Circle",
+				"Eyebite",
+				"Find the Path",
+				"Guards and Wards|FateforgeGrimoire-SRDx",
+				"Irresistible Dance|FateforgeGrimoire-SRDx",
+				"Mass Suggestion",
+				"Programmed Illusion|FateforgeGrimoire-SRDx",
+				"True Seeing|FateforgeGrimoire-SRDx",
+				"Arcane Sword|FateforgeGrimoire",
+				"Etherealness",
+				"Forcecage|FateforgeGrimoire-SRDx",
+				"Mordekainen's Magnificient Mansion|FateforgeGrimoire-SRDx",
+				"Mirage Arcane|FateforgeGrimoire-SRDx",
+				"Project Image",
+				"Regenerate",
+				"Resurrection",
+				"Symbol|FateforgeGrimoire-SRDx",
+				"Teleport|FateforgeGrimoire-SRDx"
 			],
 
 			"classFeatures": [
