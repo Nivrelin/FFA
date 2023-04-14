@@ -533,6 +533,43 @@
 					]
 				}
 			],
+			"classSpells": [
+				"Dancing Lights|FateforgeGrimoire-SRDx",
+				"Light|FateforgeGrimoire-SRDx",
+				"Mage Hand|FateforgeGrimoire-SRDx",
+				"Mending|FateforgeGrimoire-SRDx",
+				"Message|FateforgeGrimoire-SRDx",
+				"Minor Illusion|FateforgeGrimoire-SRDx",
+				"Prestidigitation|FateforgeGrimoire-SRDx",
+				"True Strike|FateforgeGrimoire-SRDx",
+				"Vicious Mockery",
+				"Vivacity|FateforgeGrimoire",
+				"Warcry|FateforgeGrimoire",
+				"Animal Friendship",
+				"Bane",
+				"Charm Person",
+				"Comprehend Languages",
+				"Convergence|FateforgeGrimoire",
+				"Cure Wounds",
+				"Detect Magic",
+				"Disguise Self|FateforgeGrimoire-SRDx",
+				"Faerie Fire|FateforgeGrimoire-SRDx",
+				"Fateful Twist|FateforgeGrimoire",
+				"Feather Fall|FateforgeGrimoire-SRDx",
+				"Flesh Pouch|FateforgeGrimoire",
+				"Healing Word",
+				"Heroism",
+				"Hideous Laughter|FateforgeGrimoire-SRDx",
+				"Identify",
+				"Illusory Script|FateforgeGrimoire-SRDx",
+				"Longstrider",
+				"Silent Image",
+				"Sleep",
+				"Speak with Animals|FateforgeGrimoire-SRDx",
+				"Thunderwave",
+				"Unseen Servant|FateforgeGrimoire-SRDx"
+
+			],
 			"classFeatures": [
 				"Bardic Inspiration|Bard|FFA|1",
 
