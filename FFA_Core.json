@@ -567,7 +567,32 @@
 				"Sleep",
 				"Speak with Animals|FateforgeGrimoire-SRDx",
 				"Thunderwave",
-				"Unseen Servant|FateforgeGrimoire-SRDx"
+				"Unseen Servant|FateforgeGrimoire-SRDx",
+				"Animal Messenger",
+				"Aura of Duplicity|FateforgeGrimoire",
+				"Blindness/Deafness",
+				"Calm Emotions|FateforgeGrimoire-SRDx",
+				"Compulsive Strike|FateforgeGrimoire",
+				"Detect Thoughts",
+				"Enhance Ability",
+				"Enthrall",
+				"Expose|FateforgeGrimoire",
+				"Heat Metal",
+				"Hold Person",
+				"Invisibility",
+				"Knock|FateforgeGrimoire-SRDx",
+				"Lesser Restoration",
+				"Locate Animals or Plants",
+				"Locate Object",
+				"Magic Mouth",
+				"Magic Theft|FateforgeGrimoire",
+				"See Invisibility|FateforgeGrimoire-SRDx",
+				"Shatter",
+				"Silence|FateforgeGrimoire-SRDx",
+				"Suggestion",
+				"Venomous Influx",
+				"Zone of Truth"
+
 
 			],
 			"classFeatures": [
