@@ -16,7 +16,7 @@
 			"color": "867d5a"
 		}],
 		"dateAdded": 1595181963,
-		"dateLastModified": 1681510967
+		"dateLastModified": 1681556692
 		
 	},
 	"class": [
@@ -652,7 +652,13 @@
 				"Regenerate",
 				"Resurrection",
 				"Symbol|FateforgeGrimoire-SRDx",
-				"Teleport|FateforgeGrimoire-SRDx"
+				"Teleport|FateforgeGrimoire-SRDx",
+				"Antipathy/Sympathy",
+				"Dominate Monster|FateforgeGrimoire-SRDx",
+				"Feeblemind",
+				"Glibness",
+				"Mind Blank",
+				"Power Word Stun"
 			],
 
 			"classFeatures": [
