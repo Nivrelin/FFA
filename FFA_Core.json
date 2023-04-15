@@ -663,23 +663,17 @@
 				"Power Word Kill",
 				"True Polymorph"
 			],
-
 			"classFeatures": [
 				"Bardic Inspiration|Bard|FFA|1",
-
 				"Spellcasting|Bard|FFA|1",
-
 				"Jack of All Trades|Bard|FFA|2",
 				"Song of Rest (d6)|Bard|FFA|2",
-
 				{
 					"classFeature": "Bard College|Bard|FFA|3",
 					"gainSubclassFeature": true
 				},
 				"Expertise|Bard|FFA|3",
 				"Ability Score Improvement|Bard|FFA|4",
-
-
 				"Bardic Inspiration (d8)|Bard|FFA|5",
 				"Font of Inspiration|Bard|FFA|5",
 				"Countercharm|Bard|FFA|6",
@@ -688,13 +682,11 @@
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Bard|FFA|8",
-
 				"Song of Rest (d8)|Bard|FFA|9",
 				"Bardic Inspiration (d10)|Bard|FFA|10",
 				"Expertise|Bard|FFA|10",
 				"Magical Secrets|Bard|FFA|10",
 				"Ability Score Improvement|Bard|FFA|12",
-
 				"Song of Rest (d10)|Bard|FFA|13",
 				"Magical Secrets|Bard|FFA|14",
 				{
@@ -703,11 +695,9 @@
 				},
 				"Bardic Inspiration (d12)|Bard|FFA|15",
 				"Ability Score Improvement|Bard|FFA|16",
-
 				"Song of Rest (d12)|Bard|FFA|17",
 				"Magical Secrets|Bard|FFA|18",
 				"Ability Score Improvement|Bard|FFA|19",
-
 				"Superior Inspiration|Bard|FFA|20"
 			],
 			"subclassTitle": "Bard College",
@@ -1278,7 +1268,6 @@
 					"classFeature": "Primal Path|Barbarian|FFA|3",
 					"gainSubclassFeature": true
 				},
-
 				"Ability Score Improvement|Barbarian|FFA|4",
 				"Extra Attack|Barbarian|FFA|5",
 				"Fast Movement|Barbarian|FFA|5",
@@ -1287,7 +1276,6 @@
 					"gainSubclassFeature": true
 				},
 				"Feral Instinct|Barbarian|FFA|7",
-
 				"Ability Score Improvement|Barbarian|FFA|8",
 				"Brutal Critical (1 die)|Barbarian|FFA|9",
 				{
@@ -1636,10 +1624,6 @@
 				"Befuddling Stunt|Bard|FFA|Grace|FFA|14"
 			]
 		},
-
-
-
-
 		{
 			"name": "College of Glamour",
 			"shortName": "Glamour",
@@ -1686,9 +1670,6 @@
 				"Shadow Lore|Bard|FFA|Whispers|FFA|14"
 			]
 		},
-
-
-
 		{
 			"name": "College of Creation",
 			"shortName": "Creation",
@@ -1740,8 +1721,6 @@
 				"Mystical Connection|Bard|FFA|Spirits|FFA|14"
 			]
 		},
-
-
 		{
 			"name": "Path of the Berserker",
 			"shortName": "Berserker",
@@ -2543,7 +2522,6 @@
 				"Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor."
 			]
 		},
-
 		{
 			"name": "Path Feature",
 			"source": "FFA",
@@ -2569,7 +2547,6 @@
 				"Additionally, if you are surprised at the beginning of combat and aren't {@condition incapacitated}, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn."
 			]
 		},
-
 		{
 			"name": "Ability Score Improvement",
 			"source": "FFA",
@@ -2583,7 +2560,6 @@
 				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
 			]
 		},
-
 		{
 			"name": "Brutal Critical (1 die)",
 			"source": "FFA",
@@ -2635,7 +2611,6 @@
 				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
 			]
 		},
-
 		{
 			"name": "Brutal Critical (2 dice)",
 			"source": "FFA",
@@ -2686,7 +2661,6 @@
 				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
 			]
 		},
-
 		{
 			"name": "Brutal Critical (3 dice)",
 			"source": "FFA",
@@ -2724,7 +2698,6 @@
 				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
 			]
 		},
-
 		{
 			"name": "Primal Champion",
 			"source": "FFA",
