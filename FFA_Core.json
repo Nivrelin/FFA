@@ -16,8 +16,7 @@
 			"color": "867d5a"
 		}],
 		"dateAdded": 1595181963,
-		"dateLastModified": 1681556692
-		
+		"dateLastModified": 1681578262
 	},
 	"class": [
 	{
@@ -1323,238 +1322,30 @@
 							"entries": [
 								"Primitive tribes respect barbarians and see in their path a communion with one's primal instincts, but not all of them are from such an environment. Most of them are outcasts, ill-suited to life in society because of their brutal nature. Some of them are individuals with fiery mindsets and explosive tempers, others are murderers driven by their lowest instincts, and others are tortured persons who can only free themselves of their frustrations by letting go of them in a torrent of rage. To a civilized mind, the idea of reveling in such orgies of violence without even the pretext of having been raised by savages is a frightening, disturbing one. Barbarians know this, and they make use of the aura of danger and fury they give off to get our of many a predicament: they are feared, but they are also left alone. Honest, sane citizens stay away from them, and both outlaws and offical authorities think twice before accosting them. Many barbarians enjoy this reputation for savagery, seeing it as insurance against meddlers and as a perpetual source of amusement at the expense of city dwellers."
 							]
+						},
+						{
+							"type": "entries",
+							"name": "Fighting Instinct",
+							"entries": [
+								"Though few barbarians are formally trained in martial arts, it would be a dire mistake to underestimate their fighting prowess. What they lack in technique and discipline, they make up for with brutality and inhuman instincts. They are survivors adapted to punishing environments and no-holds-barred combat. This harsh existence makes them constantly alert, extremely swift and athletic holders of a primal, brual wisdom acquired through the experience of a life that is nothing but a long battle."
+							]
 						}
 					],
 					"source": "FFA",
-					"page": 46
+					"page": 118
 				},
 				{
 					"type": "section",
 					"entries": [{
 							"type": "quote",
 							"entries": [
-								"I have witnessed the indomitable performance of barbarians on the field of battle, and it makes me wonder what force lies at the heart of their rage."
+								"I will die like I was born! Covered in blood and screaming at the top of my lungs!"
 							],
-							"by": "Seret, archwizard"
+							"by": "Quote attributed to Izold, known under the moniker 'Trollslayer'. One of the most famous berserkers of the world of Eana, Izold travels the world, following her instincts and a quest only she knows about."
 						},
-						"The anger felt by a normal person resembles the rage of a barbarian in the same way that a gentle breeze is akin to a furious thunderstorm. The barbarian's driving force comes from a place that transcends mere emotion, making its manifestation all the more terrible. Whether the impetus for the fury comes entirely from within or from forging a link with a spirit animal, a raging barbarian becomes able to perform supernatural feats of strength and endurance. The outburst is temporary, but while it lasts, it takes over body and mind, driving the barbarian on despite peril and injury, until the last enemy falls.",
-						"It can be tempting to play a barbarian character that is a straightforward application of the classic archetype—a brute, and usually a dimwitted one at that, who rushes in where others fear to tread. But not all the barbarians in the world are cut from that cloth, so you can certainly put your own spin on things. Either way, consider adding some flourishes to make your barbarian stand out from all others; see the following sections for some ideas.",
-						{
-							"type": "entries",
-							"name": "Personal Totems",
-							"entries": [
-								"Barbarians tend to travel light, carrying little in the way of personal effects or other unnecessary gear. The few possessions they do carry often include small items that have special significance. A personal totem is significant because it has a mystical origin or is tied to an important moment in the character's life—perhaps a remembrance from the barbarian's past or a harbinger of what lies ahead.",
-								"A personal totem of this sort might be associated with a barbarian's spirit animal, or might actually be the totem object for the animal, but such a connection is not essential. One who has a bear totem spirit, for instance, could still carry an eagle's feather as a personal totem.",
-								"Consider creating one or more personal totems for your character—objects that hold a special link to your character's past or future. Think about how a totem might affect your character's actions.",
-								{
-									"type": "table",
-									"caption": "Personal Totems",
-									"colLabels": [
-										"{@dice d6}",
-										"Totem"
-									],
-									"colStyles": [
-										"col-1 text-center",
-										"col-11"
-									],
-									"rows": [
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 1
-												}
-											},
-											"A tuft of fur from a solitary wolf that you befriended during a hunt"
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 2
-												}
-											},
-											"Three eagle feathers given to you by a wise shaman, who told you they would play a role in determining your fate"
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 3
-												}
-											},
-											"A necklace made from the claws of a young cave bear that you slew singlehandedly as a child"
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 4
-												}
-											},
-											"A small leather pouch holding three stones that represent your ancestors"
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 5
-												}
-											},
-											"A few small bones from the first beast you killed, tied together with colored wool"
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 6
-												}
-											},
-											"An egg-sized stone in the shape of your spirit animal that appeared one day in your belt pouch"
-										]
-									]
-								}
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Tattoos",
-							"entries": [
-								"The members of many barbarian clans decorate their bodies with tattoos, each of which represents a significant moment in the life of the bearer or the bearer's ancestors, or which symbolizes a feeling or an attitude. As with personal totems, a barbarian's tattoos might or might not be related to an animal spirit.",
-								"Each tattoo a barbarian displays contributes to that individual's identity. If your character wears tattoos, what do they look like, and what do they represent?",
-								{
-									"type": "table",
-									"caption": "Tattoos",
-									"colLabels": [
-										"{@dice d6}",
-										"Tattoo"
-									],
-									"colStyles": [
-										"col-1 text-center",
-										"col-11"
-									],
-									"rows": [
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 1
-												}
-											},
-											"The wings of an eagle are spread wide across your upper back."
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 2
-												}
-											},
-											"Etched on the backs of your hands are the paws of a cave bear."
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 3
-												}
-											},
-											"The symbols of your clan are displayed in viny patterns along your arms."
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 4
-												}
-											},
-											"The antlers of an elk are inked across your back."
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 5
-												}
-											},
-											"Images of your spirit animal are tattooed along your weapon arm and hand."
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 6
-												}
-											},
-											"The eyes of a wolf are marked on your back to help you see and ward off evil spirits."
-										]
-									]
-								}
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Superstitions",
-							"entries": [
-								"Barbarians vary widely in how they understand life. Some follow gods and look for guidance from those deities in the cycles of nature and the animals they encounter. These barbarians believe that spirits inhabit the plants and animals of the world, and the barbarians look to them for omens and power.",
-								"Other barbarians trust only in the blood that runs in their veins and the steel they hold in their hands. They have no use for the invisible world, instead relying on their senses to hunt and survive like the wild beasts they emulate.",
-								"Both of these attitudes can give rise to superstitions. These beliefs are often passed down within a family or shared among the members of a clan or a hunting group.",
-								"If your barbarian character has any superstitions, were they ingrained in you by your family, or are they the result of personal experience?",
-								{
-									"type": "table",
-									"caption": "Superstition",
-									"colLabels": [
-										"{@dice d6}",
-										"Superstition"
-									],
-									"colStyles": [
-										"col-1 text-center",
-										"col-11"
-									],
-									"rows": [
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 1
-												}
-											},
-											"If you disturb the bones of the dead, you inherit all the troubles that plagued them in life."
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 2
-												}
-											},
-											"Never trust a wizard. They're all devils in disguise, especially the friendly ones."
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 3
-												}
-											},
-											"Dwarves have lost their spirits, and are almost like the undead. That's why they live underground."
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 4
-												}
-											},
-											"Magical things bring trouble. Never sleep with a magic object within ten feet of you."
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 5
-												}
-											},
-											"When you walk through a graveyard, be sure to wear silver, or a ghost might jump into your body."
-										],
-										[{
-												"type": "cell",
-												"roll": {
-													"exact": 6
-												}
-											},
-											"If an elf looks you in the eyes, she's trying to read your thoughts."
-										]
-									]
-								}
-							]
-						}
 					],
 					"source": "FFA",
-					"page": 8
+					"page": 119
 				}
 			]
 		}
