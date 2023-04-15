@@ -658,7 +658,10 @@
 				"Feeblemind",
 				"Glibness",
 				"Mind Blank",
-				"Power Word Stun"
+				"Power Word Stun",
+				"Foresight",
+				"Power Word Kill",
+				"True Polymorph"
 			],
 
 			"classFeatures": [
