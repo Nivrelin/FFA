@@ -16,7 +16,7 @@
 			"color": "867d5a"
 		}],
 		"dateAdded": 1595181963,
-		"dateLastModified": 1682072875
+		"dateLastModified": 1682073379
 	},
 	"class": [
 		{
@@ -1785,60 +1785,53 @@
 				}
 			],
 			"classFeatures": [
-				"Spellcasting|Cleric||1",
-				"Cantrip Versatility|Cleric||1|UAClassFeatureVariants",
+				"Spellcasting|Cleric|FFA|1",
 				{
-					"classFeature": "Divine Domain|Cleric||1",
+					"classFeature": "Divine Domain|Cleric|FFA|1",
 					"gainSubclassFeature": true
 				},
 				{
-					"classFeature": "Channel Divinity|Cleric||2",
+					"classFeature": "Channel Divinity|Cleric|FFA|2",
 					"tableDisplayName": "Channel Divinity (1/rest)"
 				},
-				"Channel Divinity: Harness Divine Power|Cleric||2|UAClassFeatureVariants",
-				"Channel Divinity: Harness Divine Power|Cleric||2|TCE",
+				"Channel Divinity: Harness Divine Power|Cleric|FFA|2|TCE",
 				{
-					"classFeature": "Divine Domain feature|Cleric||2",
+					"classFeature": "Divine Domain feature|Cleric|FFA|2",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Cleric||4",
-				"Proficiency Versatility|Cleric||4|UAClassFeatureVariants",
-				"Cantrip Versatility|Cleric||4|TCE",
-				"Destroy Undead (CR 1/2)|Cleric||5",
+				"Ability Score Improvement|Cleric|FFA|4",
+				"Cantrip Versatility|Cleric|FFA|4|TCE",
+				"Destroy Undead (CR 1/2)|Cleric|FFA|5",
 				{
-					"classFeature": "Channel Divinity|Cleric||6",
+					"classFeature": "Channel Divinity|Cleric|FFA|6",
 					"tableDisplayName": "Channel Divinity (2/rest)"
 				},
 				{
-					"classFeature": "Divine Domain feature|Cleric||6",
+					"classFeature": "Divine Domain feature|Cleric|FFA|6",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Cleric||8",
-				"Proficiency Versatility|Cleric||8|UAClassFeatureVariants",
-				"Destroy Undead (CR 1)|Cleric||8",
+				"Ability Score Improvement|Cleric|FFA|8",
+				"Destroy Undead (CR 1)|Cleric|FFA|8",
 				{
-					"classFeature": "Divine Domain feature|Cleric||8",
+					"classFeature": "Divine Domain feature|Cleric|FFA|8",
 					"gainSubclassFeature": true
 				},
-				"Divine Intervention|Cleric||10",
-				"Destroy Undead (CR 2)|Cleric||11",
-				"Ability Score Improvement|Cleric||12",
-				"Proficiency Versatility|Cleric||12|UAClassFeatureVariants",
-				"Destroy Undead (CR 3)|Cleric||14",
-				"Ability Score Improvement|Cleric||16",
-				"Proficiency Versatility|Cleric||16|UAClassFeatureVariants",
-				"Destroy Undead (CR 4)|Cleric||17",
+				"Divine Intervention|Cleric|FFA|10",
+				"Destroy Undead (CR 2)|Cleric|FFA|11",
+				"Ability Score Improvement|Cleric|FFA|12",
+				"Destroy Undead (CR 3)|Cleric|FFA|14",
+				"Ability Score Improvement|Cleric|FFA|16",
+				"Destroy Undead (CR 4)|Cleric|FFA|17",
 				{
-					"classFeature": "Divine Domain feature|Cleric||17",
+					"classFeature": "Divine Domain feature|Cleric|FFA|17",
 					"gainSubclassFeature": true
 				},
 				{
-					"classFeature": "Channel Divinity|Cleric||18",
+					"classFeature": "Channel Divinity|Cleric|FFA|18",
 					"tableDisplayName": "Channel Divinity (3/rest)"
 				},
-				"Ability Score Improvement|Cleric||19",
-				"Proficiency Versatility|Cleric||19|UAClassFeatureVariants",
-				"Divine Intervention Improvement|Cleric||20"
+				"Ability Score Improvement|Cleric|FFA|19",
+				"Divine Intervention Improvement|Cleric|FFA|20"
 			],
 			"subclassTitle": "Divine Domain",
 			"fluff": [
@@ -10930,7 +10923,7 @@
 				"Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.",
 				{
 					"type": "refClassFeature",
-					"classFeature": "Channel Divinity: Turn Undead|Cleric||2"
+					"classFeature": "Channel Divinity: Turn Undead|Cleric|FFA|2"
 				}
 			]
 		},
