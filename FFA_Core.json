@@ -4024,7 +4024,7 @@
 		},
 		{
 			"name": "Fighter",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 70,
 			"srd": true,
 			"basicRules": true,
@@ -4496,7 +4496,7 @@
 		},
 		{
 			"name": "Monk",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 76,
 			"srd": true,
 			"hd": {
@@ -5279,7 +5279,7 @@
 		},
 		{
 			"name": "Paladin",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 82,
 			"srd": true,
 			"hd": {
@@ -5969,7 +5969,7 @@
 		},
 		{
 			"name": "Ranger",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 89,
 			"srd": true,
 			"hd": {
@@ -6697,7 +6697,7 @@
 		},
 		{
 			"name": "Rogue",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 94,
 			"srd": true,
 			"basicRules": true,
@@ -7417,7 +7417,7 @@
 		},
 		{
 			"name": "Sorcerer",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 99,
 			"srd": true,
 			"hd": {
@@ -8368,7 +8368,7 @@
 		},
 		{
 			"name": "Warlock",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 105,
 			"srd": true,
 			"hd": {
@@ -9024,7 +9024,7 @@
 		},
 		{
 			"name": "Wizard",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 112,
 			"srd": true,
 			"basicRules": true,
