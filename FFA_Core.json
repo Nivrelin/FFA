@@ -16,7 +16,7 @@
 			"color": "867d5a"
 		}],
 		"dateAdded": 1595181963,
-		"dateLastModified": 1682074880
+		"dateLastModified": 1682075181
 	},
 	"class": [
 		{
@@ -1785,53 +1785,53 @@
 				}
 			],
 			"classFeatures": [
-				"Spellcasting|Cleric|FFA|1|PHB",
+				"Spellcasting|Cleric|FFA|1|FFA",
 				{
-					"classFeature": "Divine Domain|Cleric|FFA|1|PHB",
+					"classFeature": "Divine Domain|Cleric|FFA|1|FFA",
 					"gainSubclassFeature": true
 				},
 				{
-					"classFeature": "Channel Divinity|Cleric|FFA|2|PHB",
+					"classFeature": "Channel Divinity|Cleric|FFA|2|FFA",
 					"tableDisplayName": "Channel Divinity (1/rest)"
 				},
-				"Channel Divinity: Harness Divine Power|Cleric|FFA|2|TCE",
+				
 				{
-					"classFeature": "Divine Domain feature|Cleric|FFA|2|PHB",
+					"classFeature": "Divine Domain feature|Cleric|FFA|2|FFA",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Cleric|FFA|4|PHB",
-				"Cantrip Versatility|Cleric|FFA|4|TCE",
-				"Destroy Undead (CR 1/2)|Cleric|FFA|5|PHB",
+				"Ability Score Improvement|Cleric|FFA|4|FFA",
+				
+				"Destroy Undead (CR 1/2)|Cleric|FFA|5|FFA",
 				{
-					"classFeature": "Channel Divinity|Cleric|FFA|6|PHB",
+					"classFeature": "Channel Divinity|Cleric|FFA|6|FFA",
 					"tableDisplayName": "Channel Divinity (2/rest)"
 				},
 				{
-					"classFeature": "Divine Domain feature|Cleric|FFA|6|PHB",
+					"classFeature": "Divine Domain feature|Cleric|FFA|6|FFA",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Cleric|FFA|8|PHB",
-				"Destroy Undead (CR 1)|Cleric|FFA|8|PHB",
+				"Ability Score Improvement|Cleric|FFA|8|FFA",
+				"Destroy Undead (CR 1)|Cleric|FFA|8|FFA",
 				{
-					"classFeature": "Divine Domain feature|Cleric|FFA|8|PHB",
+					"classFeature": "Divine Domain feature|Cleric|FFA|8|FFA",
 					"gainSubclassFeature": true
 				},
-				"Divine Intervention|Cleric|FFA|10|PHB",
-				"Destroy Undead (CR 2)|Cleric|FFA|11|PHB",
-				"Ability Score Improvement|Cleric|FFA|12|PHB",
-				"Destroy Undead (CR 3)|Cleric|FFA|14|PHB",
-				"Ability Score Improvement|Cleric|FFA|16|PHB",
-				"Destroy Undead (CR 4)|Cleric|FFA|17|PHB",
+				"Divine Intervention|Cleric|FFA|10|FFA",
+				"Destroy Undead (CR 2)|Cleric|FFA|11|FFA",
+				"Ability Score Improvement|Cleric|FFA|12|FFA",
+				"Destroy Undead (CR 3)|Cleric|FFA|14|FFA",
+				"Ability Score Improvement|Cleric|FFA|16|FFA",
+				"Destroy Undead (CR 4)|Cleric|FFA|17|FFA",
 				{
-					"classFeature": "Divine Domain feature|Cleric|FFA|17|PHB",
+					"classFeature": "Divine Domain feature|Cleric|FFA|17|FFA",
 					"gainSubclassFeature": true
 				},
 				{
-					"classFeature": "Channel Divinity|Cleric|FFA|18|PHB",
+					"classFeature": "Channel Divinity|Cleric|FFA|18|FFA",
 					"tableDisplayName": "Channel Divinity (3/rest)"
 				},
-				"Ability Score Improvement|Cleric|FFA|19|PHB",
-				"Divine Intervention Improvement|Cleric|FFA|20|PHB"
+				"Ability Score Improvement|Cleric|FFA|19|FFA",
+				"Divine Intervention Improvement|Cleric|FFA|20|FFA"
 			],
 			"subclassTitle": "Divine Domain",
 			"fluff": [
@@ -1877,7 +1877,7 @@
 							]
 						}
 					],
-					"source": "PHB",
+					"source": "FFA",
 					"page": 56
 				},
 				{
@@ -2138,7 +2138,7 @@
 		},
 		{
 			"name": "Druid",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 64,
 			
 			"hd": {
@@ -2675,7 +2675,7 @@
 							]
 						}
 					],
-					"source": "PHB",
+					"source": "FFA",
 					"page": 64
 				},
 				{
@@ -4234,7 +4234,7 @@
 							]
 						}
 					],
-					"source": "PHB",
+					"source": "FFA",
 					"page": 70
 				},
 				{
@@ -5019,7 +5019,7 @@
 							]
 						}
 					],
-					"source": "PHB",
+					"source": "FFA",
 					"page": 76
 				},
 				{
@@ -5633,7 +5633,7 @@
 						}
 					],
 					"page": 82,
-					"source": "PHB"
+					"source": "FFA"
 				},
 				{
 					"type": "section",
@@ -6436,7 +6436,7 @@
 							]
 						}
 					],
-					"source": "PHB",
+					"source": "FFA",
 					"page": 89
 				},
 				{
@@ -7154,7 +7154,7 @@
 						}
 					],
 					"page": 94,
-					"source": "PHB"
+					"source": "FFA"
 				},
 				{
 					"type": "section",
@@ -8031,7 +8031,7 @@
 						}
 					],
 					"page": 99,
-					"source": "PHB"
+					"source": "FFA"
 				},
 				{
 					"type": "section",
@@ -8794,7 +8794,7 @@
 						}
 					],
 					"page": 105,
-					"source": "PHB"
+					"source": "FFA"
 				},
 				{
 					"type": "section",
@@ -9527,7 +9527,7 @@
 						}
 					],
 					"page": 112,
-					"source": "PHB"
+					"source": "FFA"
 				},
 				{
 					"type": "section",
@@ -10823,7 +10823,7 @@
 		},
 		{
 			"name": "Divine Domain",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			
 			
@@ -10844,7 +10844,7 @@
 		},
 		{
 			"name": "Spellcasting",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			
 			
@@ -10909,7 +10909,7 @@
 		},
 		{
 			"name": "Channel Divinity",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			
 			
@@ -10927,25 +10927,10 @@
 				}
 			]
 		},
-		{
-			"name": "Channel Divinity: Harness Divine Power",
-			"source": "TCE",
-			"page": 30,
-			"className": "Cleric",
-			"classSource": "FFA",
-			"level": 2,
-			"isClassFeatureVariant": true,
-			"consumes": {
-				"name": "Channel Divinity"
-			},
-			"entries": [
-				"{@i 2nd-level cleric {@variantrule optional class features|tce|optional feature}}",
-				"You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest."
-			]
-		},
+		
 		{
 			"name": "Channel Divinity: Turn Undead",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -10961,7 +10946,7 @@
 		},
 		{
 			"name": "Divine Domain feature",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -10972,7 +10957,7 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -10982,22 +10967,10 @@
 				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
 			]
 		},
-		{
-			"name": "Cantrip Versatility",
-			"source": "TCE",
-			"page": 30,
-			"className": "Cleric",
-			"classSource": "FFA",
-			"level": 4,
-			"isClassFeatureVariant": true,
-			"entries": [
-				"{@i 4th-level cleric {@variantrule optional class features|tce|optional feature}}",
-				"Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the {@filter cleric spell list|spells|level=0|class=Cleric}."
-			]
-		},
+		
 		{
 			"name": "Destroy Undead (CR 1/2)",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11008,7 +10981,7 @@
 		},
 		{
 			"name": "Channel Divinity",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11019,7 +10992,7 @@
 		},
 		{
 			"name": "Divine Domain feature",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11030,7 +11003,7 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11042,7 +11015,7 @@
 		},
 		{
 			"name": "Destroy Undead (CR 1)",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11053,7 +11026,7 @@
 		},
 		{
 			"name": "Divine Domain feature",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11064,7 +11037,7 @@
 		},
 		{
 			"name": "Divine Intervention",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11077,7 +11050,7 @@
 		},
 		{
 			"name": "Destroy Undead (CR 2)",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11088,7 +11061,7 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11100,7 +11073,7 @@
 		},
 		{
 			"name": "Destroy Undead (CR 3)",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11111,7 +11084,7 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11123,7 +11096,7 @@
 		},
 		{
 			"name": "Destroy Undead (CR 4)",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11134,7 +11107,7 @@
 		},
 		{
 			"name": "Divine Domain feature",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11145,7 +11118,7 @@
 		},
 		{
 			"name": "Channel Divinity",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11156,7 +11129,7 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
@@ -11168,7 +11141,7 @@
 		},
 		{
 			"name": "Divine Intervention Improvement",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"className": "Cleric",
 			"classSource": "FFA",
