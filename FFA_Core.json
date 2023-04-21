@@ -16,10 +16,10 @@
 			"color": "867d5a"
 		}],
 		"dateAdded": 1595181963,
-		"dateLastModified": 1682071409
+		"dateLastModified": 1682071498
 	},
 	"class": [
-	{
+		{
 			"name": "Bard",
 			"source": "FFA",
 			"page": 51,
@@ -1351,7 +1351,7 @@
 		},
 		{
 			"name": "Cleric",
-			"source": "PHB",
+			"source": "FFA",
 			"page": 56,
 			"srd": true,
 			"basicRules": true,
