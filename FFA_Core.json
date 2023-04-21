@@ -16,7 +16,7 @@
 			"color": "867d5a"
 		}],
 		"dateAdded": 1595181963,
-		"dateLastModified": 1682074187
+		"dateLastModified": 1682074880
 	},
 	"class": [
 		{
@@ -2140,7 +2140,7 @@
 			"name": "Druid",
 			"source": "PHB",
 			"page": 64,
-			"srd": true,
+			
 			"hd": {
 				"number": 1,
 				"faces": 8
@@ -4017,8 +4017,8 @@
 			"name": "Fighter",
 			"source": "FFA",
 			"page": 70,
-			"srd": true,
-			"basicRules": true,
+			
+			
 			"hd": {
 				"number": 1,
 				"faces": 10
@@ -4489,7 +4489,7 @@
 			"name": "Monk",
 			"source": "FFA",
 			"page": 76,
-			"srd": true,
+			
 			"hd": {
 				"number": 1,
 				"faces": 8
@@ -5272,7 +5272,7 @@
 			"name": "Paladin",
 			"source": "FFA",
 			"page": 82,
-			"srd": true,
+			
 			"hd": {
 				"number": 1,
 				"faces": 10
@@ -5962,7 +5962,7 @@
 			"name": "Ranger",
 			"source": "FFA",
 			"page": 89,
-			"srd": true,
+			
 			"hd": {
 				"number": 1,
 				"faces": 10
@@ -6690,8 +6690,8 @@
 			"name": "Rogue",
 			"source": "FFA",
 			"page": 94,
-			"srd": true,
-			"basicRules": true,
+			
+			
 			"hd": {
 				"number": 1,
 				"faces": 8
@@ -7410,7 +7410,7 @@
 			"name": "Sorcerer",
 			"source": "FFA",
 			"page": 99,
-			"srd": true,
+			
 			"hd": {
 				"number": 1,
 				"faces": 6
@@ -8361,7 +8361,7 @@
 			"name": "Warlock",
 			"source": "FFA",
 			"page": 105,
-			"srd": true,
+			
 			"hd": {
 				"number": 1,
 				"faces": 8
@@ -9017,8 +9017,8 @@
 			"name": "Wizard",
 			"source": "FFA",
 			"page": 112,
-			"srd": true,
-			"basicRules": true,
+			
+			
 			"hd": {
 				"number": 1,
 				"faces": 6
@@ -9784,7 +9784,7 @@
 			"className": "Bard",
 			"classSource": "FFA",
 			"page": 54,
-			"srd": true,
+			
 			"additionalSpells": [{
 				"name": "Additional Magical Secrets",
 				"known": {
@@ -10143,7 +10143,7 @@
 			"name": "Bardic Inspiration",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 1,
@@ -10158,7 +10158,7 @@
 			"name": "Spellcasting",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 1,
@@ -10229,7 +10229,7 @@
 			"name": "Jack of All Trades",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 2,
@@ -10241,7 +10241,7 @@
 			"name": "Song of Rest (d6)",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 2,
@@ -10254,7 +10254,7 @@
 			"name": "Bard College",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 3,
@@ -10266,7 +10266,7 @@
 			"name": "Expertise",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 3,
@@ -10279,7 +10279,7 @@
 			"name": "Ability Score Improvement",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 4,
@@ -10292,7 +10292,7 @@
 			"name": "Bardic Inspiration (d8)",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 5,
@@ -10304,7 +10304,7 @@
 			"name": "Font of Inspiration",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 5,
@@ -10316,7 +10316,7 @@
 			"name": "Bard College feature",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 6,
@@ -10328,7 +10328,7 @@
 			"name": "Countercharm",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 6,
@@ -10340,7 +10340,7 @@
 			"name": "Ability Score Improvement",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 8,
@@ -10353,7 +10353,7 @@
 			"name": "Song of Rest (d8)",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 9,
@@ -10365,7 +10365,7 @@
 			"name": "Bardic Inspiration (d10)",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 10,
@@ -10377,7 +10377,7 @@
 			"name": "Expertise",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 10,
@@ -10389,7 +10389,7 @@
 			"name": "Magical Secrets",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 10,
@@ -10403,7 +10403,7 @@
 			"name": "Ability Score Improvement",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 12,
@@ -10416,7 +10416,7 @@
 			"name": "Song of Rest (d10)",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 13,
@@ -10428,7 +10428,7 @@
 			"name": "Bard College feature",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 14,
@@ -10440,7 +10440,7 @@
 			"name": "Magical Secrets",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 14,
@@ -10453,7 +10453,7 @@
 			"name": "Bardic Inspiration (d12)",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 15,
@@ -10465,7 +10465,7 @@
 			"name": "Ability Score Improvement",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 16,
@@ -10478,7 +10478,7 @@
 			"name": "Song of Rest (d12)",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 17,
@@ -10490,7 +10490,7 @@
 			"name": "Magical Secrets",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 18,
@@ -10503,7 +10503,7 @@
 			"name": "Ability Score Improvement",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 19,
@@ -10516,7 +10516,7 @@
 			"name": "Superior Inspiration",
 			"source": "FFA",
 			"page": 51,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"level": 20,
@@ -10528,7 +10528,7 @@
 			"name": "Rage",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 1,
@@ -10552,7 +10552,7 @@
 			"name": "Unarmored Defense",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 1,
@@ -10564,7 +10564,7 @@
 			"name": "Danger Sense",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 2,
@@ -10576,7 +10576,7 @@
 			"name": "Reckless Attack",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 2,
@@ -10588,7 +10588,7 @@
 			"name": "Primal Path",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 3,
@@ -10600,7 +10600,7 @@
 			"name": "Ability Score Improvement",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 4,
@@ -10613,7 +10613,7 @@
 			"name": "Extra Attack",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 5,
@@ -10625,7 +10625,7 @@
 			"name": "Fast Movement",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 5,
@@ -10637,7 +10637,7 @@
 			"name": "Path Feature",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 6,
@@ -10649,7 +10649,7 @@
 			"name": "Feral Instinct",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 7,
@@ -10662,7 +10662,7 @@
 			"name": "Ability Score Improvement",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 8,
@@ -10675,7 +10675,7 @@
 			"name": "Brutal Critical (1 die)",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 9,
@@ -10688,7 +10688,7 @@
 			"name": "Path feature",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 10,
@@ -10700,7 +10700,7 @@
 			"name": "Relentless Rage",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 11,
@@ -10713,7 +10713,7 @@
 			"name": "Ability Score Improvement",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 12,
@@ -10726,7 +10726,7 @@
 			"name": "Brutal Critical (2 dice)",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 13,
@@ -10739,7 +10739,7 @@
 			"name": "Path feature",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 14,
@@ -10751,7 +10751,7 @@
 			"name": "Persistent Rage",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 15,
@@ -10763,7 +10763,7 @@
 			"name": "Ability Score Improvement",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 16,
@@ -10776,7 +10776,7 @@
 			"name": "Brutal Critical (3 dice)",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 17,
@@ -10788,7 +10788,7 @@
 			"name": "Indomitable Might",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 18,
@@ -10800,7 +10800,7 @@
 			"name": "Ability Score Improvement",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 19,
@@ -10813,7 +10813,7 @@
 			"name": "Primal Champion",
 			"source": "FFA",
 			"page": 46,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"level": 20,
@@ -10825,8 +10825,8 @@
 			"name": "Divine Domain",
 			"source": "PHB",
 			"page": 56,
-			"srd": true,
-			"basicRules": true,
+			
+			
 			"className": "Cleric",
 			"classSource": "FFA",
 			"level": 1,
@@ -10846,8 +10846,8 @@
 			"name": "Spellcasting",
 			"source": "PHB",
 			"page": 56,
-			"srd": true,
-			"basicRules": true,
+			
+			
 			"className": "Cleric",
 			"classSource": "FFA",
 			"level": 1,
@@ -10911,8 +10911,8 @@
 			"name": "Channel Divinity",
 			"source": "PHB",
 			"page": 56,
-			"srd": true,
-			"basicRules": true,
+			
+			
 			"className": "Cleric",
 			"classSource": "FFA",
 			"level": 2,
@@ -10923,7 +10923,7 @@
 				"Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.",
 				{
 					"type": "refClassFeature",
-					"classFeature": "Channel Divinity: Turn Undead|Cleric|FFA|2"
+					"classFeature": "Channel Divinity: Turn Undead|Cleric|FFA|2|PHB"
 				}
 			]
 		},
@@ -11286,7 +11286,7 @@
 			"name": "College of Lore",
 			"source": "FFA",
 			"page": 54,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"subclassShortName": "Lore",
@@ -11310,7 +11310,7 @@
 			"name": "Bonus Proficiencies",
 			"source": "FFA",
 			"page": 54,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"subclassShortName": "Lore",
@@ -11325,7 +11325,7 @@
 			"name": "Cutting Words",
 			"source": "FFA",
 			"page": 54,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"subclassShortName": "Lore",
@@ -11340,7 +11340,7 @@
 			"name": "Additional Magical Secrets",
 			"source": "FFA",
 			"page": 54,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"subclassShortName": "Lore",
@@ -11355,7 +11355,7 @@
 			"name": "Peerless Skill",
 			"source": "FFA",
 			"page": 54,
-			"srd": true,
+			
 			"className": "Bard",
 			"classSource": "FFA",
 			"subclassShortName": "Lore",
@@ -12263,7 +12263,7 @@
 			"name": "Path of the Berserker",
 			"source": "FFA",
 			"page": 49,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"subclassShortName": "Berserker",
@@ -12281,7 +12281,7 @@
 			"name": "Frenzy",
 			"source": "FFA",
 			"page": 49,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"subclassShortName": "Berserker",
@@ -12296,7 +12296,7 @@
 			"name": "Mindless Rage",
 			"source": "FFA",
 			"page": 49,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"subclassShortName": "Berserker",
@@ -12311,7 +12311,7 @@
 			"name": "Intimidating Presence",
 			"source": "FFA",
 			"page": 49,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"subclassShortName": "Berserker",
@@ -12327,7 +12327,7 @@
 			"name": "Retaliation",
 			"source": "FFA",
 			"page": 49,
-			"srd": true,
+			
 			"className": "Barbarian",
 			"classSource": "FFA",
 			"subclassShortName": "Berserker",
