@@ -16,7 +16,7 @@
 			"color": "867d5a"
 		}],
 		"dateAdded": 1595181963,
-		"dateLastModified": 1682073379
+		"dateLastModified": 1682073939
 	},
 	"class": [
 		{
@@ -1785,53 +1785,53 @@
 				}
 			],
 			"classFeatures": [
-				"Spellcasting|Cleric|FFA|1",
+				"Spellcasting|Cleric|FFA|1|PHB",
 				{
-					"classFeature": "Divine Domain|Cleric|FFA|1",
+					"classFeature": "Divine Domain|Cleric|FFA|1|PHB",
 					"gainSubclassFeature": true
 				},
 				{
-					"classFeature": "Channel Divinity|Cleric|FFA|2",
+					"classFeature": "Channel Divinity|Cleric|FFA|2|PHB",
 					"tableDisplayName": "Channel Divinity (1/rest)"
 				},
 				"Channel Divinity: Harness Divine Power|Cleric|FFA|2|TCE",
 				{
-					"classFeature": "Divine Domain feature|Cleric|FFA|2",
+					"classFeature": "Divine Domain feature|Cleric|FFA|2|PHB",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Cleric|FFA|4",
+				"Ability Score Improvement|Cleric|FFA|4|PHB",
 				"Cantrip Versatility|Cleric|FFA|4|TCE",
-				"Destroy Undead (CR 1/2)|Cleric|FFA|5",
+				"Destroy Undead (CR 1/2)|Cleric|FFA|5|PHB",
 				{
-					"classFeature": "Channel Divinity|Cleric|FFA|6",
+					"classFeature": "Channel Divinity|Cleric|FFA|6|PHB",
 					"tableDisplayName": "Channel Divinity (2/rest)"
 				},
 				{
-					"classFeature": "Divine Domain feature|Cleric|FFA|6",
+					"classFeature": "Divine Domain feature|Cleric|FFA|6|PHB",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Cleric|FFA|8",
-				"Destroy Undead (CR 1)|Cleric|FFA|8",
+				"Ability Score Improvement|Cleric|FFA|8|PHB",
+				"Destroy Undead (CR 1)|Cleric|FFA|8|PHB",
 				{
-					"classFeature": "Divine Domain feature|Cleric|FFA|8",
+					"classFeature": "Divine Domain feature|Cleric|FFA|8|PHB",
 					"gainSubclassFeature": true
 				},
-				"Divine Intervention|Cleric|FFA|10",
-				"Destroy Undead (CR 2)|Cleric|FFA|11",
-				"Ability Score Improvement|Cleric|FFA|12",
-				"Destroy Undead (CR 3)|Cleric|FFA|14",
-				"Ability Score Improvement|Cleric|FFA|16",
-				"Destroy Undead (CR 4)|Cleric|FFA|17",
+				"Divine Intervention|Cleric|FFA|10|PHB",
+				"Destroy Undead (CR 2)|Cleric|FFA|11|PHB",
+				"Ability Score Improvement|Cleric|FFA|12|PHB",
+				"Destroy Undead (CR 3)|Cleric|FFA|14|PHB",
+				"Ability Score Improvement|Cleric|FFA|16|PHB",
+				"Destroy Undead (CR 4)|Cleric|FFA|17|PHB",
 				{
-					"classFeature": "Divine Domain feature|Cleric|FFA|17",
+					"classFeature": "Divine Domain feature|Cleric|FFA|17|PHB",
 					"gainSubclassFeature": true
 				},
 				{
-					"classFeature": "Channel Divinity|Cleric|FFA|18",
+					"classFeature": "Channel Divinity|Cleric|FFA|18|PHB",
 					"tableDisplayName": "Channel Divinity (3/rest)"
 				},
-				"Ability Score Improvement|Cleric|FFA|19",
-				"Divine Intervention Improvement|Cleric|FFA|20"
+				"Ability Score Improvement|Cleric|FFA|19|PHB",
+				"Divine Intervention Improvement|Cleric|FFA|20|PHB"
 			],
 			"subclassTitle": "Divine Domain",
 			"fluff": [
