@@ -1352,7 +1352,7 @@
 		{
 			"name": "Cleric",
 			"source": "FFA",
-			"page": 56,
+			"page": 140,
 			"hd": {
 				"number": 1,
 				"faces": 8
@@ -1408,6 +1408,9 @@
 							"count": 2
 						}
 					}
+				],
+				"languages": [
+					"exotic" : 1
 				]
 			},
 			"startingEquipment": {
