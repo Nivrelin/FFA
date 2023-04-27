@@ -1410,7 +1410,7 @@
 					}
 				],
 				"languages": [
-					"exotic" : 1
+					{"exotic" : 1}
 				]
 			},
 			"startingEquipment": {
