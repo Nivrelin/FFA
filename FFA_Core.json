@@ -9835,13 +9835,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Knowledge Domain|Cleric||Knowledge||1",
-				"Channel Divinity: Knowledge of the Ages|Cleric||Knowledge||2",
-				"Channel Divinity: Read Thoughts|Cleric||Knowledge||6",
-				"Potent Spellcasting|Cleric||Knowledge||8",
-				"Blessed Strikes|Cleric||Knowledge||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Knowledge||8|TCE",
-				"Visions of the Past|Cleric||Knowledge||17"
+				"Knowledge Domain|Cleric|FFA|Knowledge||1",
+				"Channel Divinity: Knowledge of the Ages|Cleric|FFA|Knowledge||2",
+				"Channel Divinity: Read Thoughts|Cleric|FFA|Knowledge||6",
+				"Potent Spellcasting|Cleric|FFA|Knowledge||8",
+				"Blessed Strikes|Cleric|FFA|Knowledge||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Knowledge||8|TCE",
+				"Visions of the Past|Cleric|FFA|Knowledge||17"
 			]
 		},
 		{
@@ -9880,13 +9880,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Life Domain|Cleric||Life||1",
-				"Channel Divinity: Preserve Life|Cleric||Life||2",
-				"Blessed Healer|Cleric||Life||6",
-				"Divine Strike|Cleric||Life||8",
-				"Blessed Strikes|Cleric||Life||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Life||8|TCE",
-				"Supreme Healing|Cleric||Life||17"
+				"Life Domain|Cleric|FFA|Life||1",
+				"Channel Divinity: Preserve Life|Cleric|FFA|Life||2",
+				"Blessed Healer|Cleric|FFA|Life||6",
+				"Divine Strike|Cleric|FFA|Life||8",
+				"Blessed Strikes|Cleric|FFA|Life||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Life||8|TCE",
+				"Supreme Healing|Cleric|FFA|Life||17"
 			]
 		},
 		{
@@ -9928,13 +9928,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Light Domain|Cleric||Light||1",
-				"Channel Divinity: Radiance of the Dawn|Cleric||Light||2",
-				"Improved Flare|Cleric||Light||6",
-				"Potent Spellcasting|Cleric||Light||8",
-				"Blessed Strikes|Cleric||Light||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Light||8|TCE",
-				"Corona of Light|Cleric||Light||17"
+				"Light Domain|Cleric|FFA|Light||1",
+				"Channel Divinity: Radiance of the Dawn|Cleric|FFA|Light||2",
+				"Improved Flare|Cleric|FFA|Light||6",
+				"Potent Spellcasting|Cleric|FFA|Light||8",
+				"Blessed Strikes|Cleric|FFA|Light||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Light||8|TCE",
+				"Corona of Light|Cleric|FFA|Light||17"
 			]
 		},
 		{
@@ -9980,13 +9980,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Nature Domain|Cleric||Nature||1",
-				"Channel Divinity: Charm Animals and Plants|Cleric||Nature||2",
-				"Dampen Elements|Cleric||Nature||6",
-				"Divine Strike|Cleric||Nature||8",
-				"Blessed Strikes|Cleric||Nature||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Nature||8|TCE",
-				"Master of Nature|Cleric||Nature||17"
+				"Nature Domain|Cleric|FFA|Nature||1",
+				"Channel Divinity: Charm Animals and Plants|Cleric|FFA|Nature||2",
+				"Dampen Elements|Cleric|FFA|Nature||6",
+				"Divine Strike|Cleric|FFA|Nature||8",
+				"Blessed Strikes|Cleric|FFA|Nature||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Nature||8|TCE",
+				"Master of Nature|Cleric|FFA|Nature||17"
 			]
 		},
 		{
@@ -10023,13 +10023,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Tempest Domain|Cleric||Tempest||1",
-				"Channel Divinity: Destructive Wrath|Cleric||Tempest||2",
-				"Thunderbolt Strike|Cleric||Tempest||6",
-				"Divine Strike|Cleric||Tempest||8",
-				"Blessed Strikes|Cleric||Tempest||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Tempest||8|TCE",
-				"Stormborn|Cleric||Tempest||17"
+				"Tempest Domain|Cleric|FFA|Tempest||1",
+				"Channel Divinity: Destructive Wrath|Cleric|FFA|Tempest||2",
+				"Thunderbolt Strike|Cleric|FFA|Tempest||6",
+				"Divine Strike|Cleric|FFA|Tempest||8",
+				"Blessed Strikes|Cleric|FFA|Tempest||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Tempest||8|TCE",
+				"Stormborn|Cleric|FFA|Tempest||17"
 			]
 		},
 		{
@@ -10066,13 +10066,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Trickery Domain|Cleric||Trickery||1",
-				"Channel Divinity: Invoke Duplicity|Cleric||Trickery||2",
-				"Channel Divinity: Cloak of Shadows|Cleric||Trickery||6",
-				"Divine Strike|Cleric||Trickery||8",
-				"Blessed Strikes|Cleric||Trickery||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Trickery||8|TCE",
-				"Improved Duplicity|Cleric||Trickery||17"
+				"Trickery Domain|Cleric|FFA|Trickery||1",
+				"Channel Divinity: Invoke Duplicity|Cleric|FFA|Trickery||2",
+				"Channel Divinity: Cloak of Shadows|Cleric|FFA|Trickery||6",
+				"Divine Strike|Cleric|FFA|Trickery||8",
+				"Blessed Strikes|Cleric|FFA|Trickery||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Trickery||8|TCE",
+				"Improved Duplicity|Cleric|FFA|Trickery||17"
 			]
 		},
 		{
@@ -10109,13 +10109,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"War Domain|Cleric||War||1",
-				"Channel Divinity: Guided Strike|Cleric||War||2",
-				"Channel Divinity: War God's Blessing|Cleric||War||6",
-				"Divine Strike|Cleric||War||8",
-				"Blessed Strikes|Cleric||War||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||War||8|TCE",
-				"Avatar of Battle|Cleric||War||17"
+				"War Domain|Cleric|FFA|War||1",
+				"Channel Divinity: Guided Strike|Cleric|FFA|War||2",
+				"Channel Divinity: War God's Blessing|Cleric|FFA|War||6",
+				"Divine Strike|Cleric|FFA|War||8",
+				"Blessed Strikes|Cleric|FFA|War||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|War||8|TCE",
+				"Avatar of Battle|Cleric|FFA|War||17"
 			]
 		},
 		{
@@ -10162,13 +10162,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Death Domain|Cleric||Death|DMG|1",
-				"Channel Divinity: Touch of Death|Cleric||Death|DMG|2",
-				"Inescapable Destruction|Cleric||Death|DMG|6",
-				"Divine Strike|Cleric||Death|DMG|8",
-				"Blessed Strikes|Cleric||Death|DMG|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Death|DMG|8|TCE",
-				"Improved Reaper|Cleric||Death|DMG|17"
+				"Death Domain|Cleric|FFA|Death|DMG|1",
+				"Channel Divinity: Touch of Death|Cleric|FFA|Death|DMG|2",
+				"Inescapable Destruction|Cleric|FFA|Death|DMG|6",
+				"Divine Strike|Cleric|FFA|Death|DMG|8",
+				"Blessed Strikes|Cleric|FFA|Death|DMG|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Death|DMG|8|TCE",
+				"Improved Reaper|Cleric|FFA|Death|DMG|17"
 			]
 		},
 		{
@@ -10229,13 +10229,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Arcana Domain|Cleric||Arcana|SCAG|1",
-				"Channel Divinity: Arcane Abjuration|Cleric||Arcana|SCAG|2",
-				"Spell Breaker|Cleric||Arcana|SCAG|6",
-				"Potent Spellcasting|Cleric||Arcana|SCAG|8",
-				"Blessed Strikes|Cleric||Arcana|SCAG|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Arcana|SCAG|8|TCE",
-				"Arcane Mastery|Cleric||Arcana|SCAG|17"
+				"Arcana Domain|Cleric|FFA|Arcana|SCAG|1",
+				"Channel Divinity: Arcane Abjuration|Cleric|FFA|Arcana|SCAG|2",
+				"Spell Breaker|Cleric|FFA|Arcana|SCAG|6",
+				"Potent Spellcasting|Cleric|FFA|Arcana|SCAG|8",
+				"Blessed Strikes|Cleric|FFA|Arcana|SCAG|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Arcana|SCAG|8|TCE",
+				"Arcane Mastery|Cleric|FFA|Arcana|SCAG|17"
 			]
 		},
 		{
@@ -10272,13 +10272,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Forge Domain|Cleric||Forge|XGE|1",
-				"Channel Divinity: Artisan's Blessing|Cleric||Forge|XGE|2",
-				"Soul of the Forge|Cleric||Forge|XGE|6",
-				"Divine Strike|Cleric||Forge|XGE|8",
-				"Blessed Strikes|Cleric||Forge|XGE|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Forge|XGE|8|TCE",
-				"Saint of Forge and Fire|Cleric||Forge|XGE|17"
+				"Forge Domain|Cleric|FFA|Forge|XGE|1",
+				"Channel Divinity: Artisan's Blessing|Cleric|FFA|Forge|XGE|2",
+				"Soul of the Forge|Cleric|FFA|Forge|XGE|6",
+				"Divine Strike|Cleric|FFA|Forge|XGE|8",
+				"Blessed Strikes|Cleric|FFA|Forge|XGE|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Forge|XGE|8|TCE",
+				"Saint of Forge and Fire|Cleric|FFA|Forge|XGE|17"
 			]
 		},
 		{
@@ -10320,13 +10320,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Grave Domain|Cleric||Grave|XGE|1",
-				"Channel Divinity: Path to the Grave|Cleric||Grave|XGE|2",
-				"Sentinel at Death's Door|Cleric||Grave|XGE|6",
-				"Potent Spellcasting|Cleric||Grave|XGE|8",
-				"Blessed Strikes|Cleric||Grave|XGE|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Grave|XGE|8|TCE",
-				"Keeper of Souls|Cleric||Grave|XGE|17"
+				"Grave Domain|Cleric|FFA|Grave|XGE|1",
+				"Channel Divinity: Path to the Grave|Cleric|FFA|Grave|XGE|2",
+				"Sentinel at Death's Door|Cleric|FFA|Grave|XGE|6",
+				"Potent Spellcasting|Cleric|FFA|Grave|XGE|8",
+				"Blessed Strikes|Cleric|FFA|Grave|XGE|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Grave|XGE|8|TCE",
+				"Keeper of Souls|Cleric|FFA|Grave|XGE|17"
 			]
 		},
 		{
@@ -10369,13 +10369,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Order Domain|Cleric||Order|TCE|1",
-				"Channel Divinity: Order's Demand|Cleric||Order|TCE|2",
-				"Embodiment of the Law|Cleric||Order|TCE|6",
-				"Divine Strike|Cleric||Order|TCE|8",
-				"Blessed Strikes|Cleric||Order|TCE|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Order|TCE|8|TCE",
-				"Order's Wrath|Cleric||Order|TCE|17"
+				"Order Domain|Cleric|FFA|Order|TCE|1",
+				"Channel Divinity: Order's Demand|Cleric|FFA|Order|TCE|2",
+				"Embodiment of the Law|Cleric|FFA|Order|TCE|6",
+				"Divine Strike|Cleric|FFA|Order|TCE|8",
+				"Blessed Strikes|Cleric|FFA|Order|TCE|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric|FFA|Order|TCE|8|TCE",
+				"Order's Wrath|Cleric|FFA|Order|TCE|17"
 			]
 		},
 		{
@@ -10412,12 +10412,12 @@
 				}
 			],
 			"subclassFeatures": [
-				"Peace Domain|Cleric||Peace|TCE|1",
-				"Channel Divinity: Balm of Peace|Cleric||Peace|TCE|2",
-				"Protective Bond|Cleric||Peace|TCE|6",
-				"Potent Spellcasting|Cleric||Peace|TCE|8",
-				"Blessed Strikes|Cleric||Peace|TCE|8|TCE",
-				"Expansive Bond|Cleric||Peace|TCE|17"
+				"Peace Domain|Cleric|FFA|Peace|TCE|1",
+				"Channel Divinity: Balm of Peace|Cleric|FFA|Peace|TCE|2",
+				"Protective Bond|Cleric|FFA|Peace|TCE|6",
+				"Potent Spellcasting|Cleric|FFA|Peace|TCE|8",
+				"Blessed Strikes|Cleric|FFA|Peace|TCE|8|TCE",
+				"Expansive Bond|Cleric|FFA|Peace|TCE|17"
 			]
 		},
 		{
@@ -10454,12 +10454,12 @@
 				}
 			],
 			"subclassFeatures": [
-				"Twilight Domain|Cleric||Twilight|TCE|1",
-				"Channel Divinity: Twilight Sanctuary|Cleric||Twilight|TCE|2",
-				"Steps of Night|Cleric||Twilight|TCE|6",
-				"Divine Strike|Cleric||Twilight|TCE|8",
-				"Blessed Strikes|Cleric||Twilight|TCE|8|TCE",
-				"Twilight Shroud|Cleric||Twilight|TCE|17"
+				"Twilight Domain|Cleric|FFA|Twilight|TCE|1",
+				"Channel Divinity: Twilight Sanctuary|Cleric|FFA|Twilight|TCE|2",
+				"Steps of Night|Cleric|FFA|Twilight|TCE|6",
+				"Divine Strike|Cleric|FFA|Twilight|TCE|8",
+				"Blessed Strikes|Cleric|FFA|Twilight|TCE|8|TCE",
+				"Twilight Shroud|Cleric|FFA|Twilight|TCE|17"
 			]
 		}
 	],
