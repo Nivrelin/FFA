@@ -12,16 +12,23 @@
 				"Nivrelin#1337"
 			],
 			"url": "https://raw.githubusercontent.com/Nivrelin/FFA/main/FFA_Core.json",
-			"version": "0.0.2a",
+			"version": "0.0.2b",
 			"color": "867d5a"
 		}],
 		"dateAdded": 1595181963,
-		"dateLastModified": 1682670582,
+		"dateLastModified": 1682672125,
 		"dependencies": {
 			"subclasses": [
-			"PHB","TCE","XGE","SCAG","DMG"],
-			"spells":
-			["FateforgeGrimoire","FateforgeGrimoire-srdx"]
+				"PHB",
+				"TCE",
+				"XGE",
+				"SCAG",
+				"DMG"
+		],
+			"spells":[
+				"FateforgeGrimoire",
+				"FateforgeGrimoire-srdx"
+			]
 		}
 	},
 	"class": [
