@@ -16,7 +16,8 @@
 			"color": "867d5a"
 		}],
 		"dateAdded": 1595181963,
-		"dateLastModified": 1682670582
+		"dateLastModified": 1682670582,
+		"dependencies": [{"PHB","TCE","XGE","SCAG","FateforgeGrimoire","FateforgeGrimoire-srdx"}]
 	},
 	"class": [
 		{
@@ -9786,6 +9787,667 @@
 				"Destructive Hatred|Barbarian|FFA|Wizard Slayer|FFA|10",
 				"Primordial Scent|Barbarian|FFA|Wizard Slayer|FFA|10",
 				"Disrupting Strike|Barbarian|FFA|Wizard Slayer|FFA|14"
+			]
+		},
+		{
+			"name": "Knowledge Domain",
+			"shortName": "Knowledge",
+			"source": "PHB",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 59,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"command",
+							"identify"
+						],
+						"3": [
+							"augury",
+							"suggestion"
+						],
+						"5": [
+							"nondetection",
+							"speak with dead"
+						],
+						"7": [
+							"arcane eye",
+							"confusion"
+						],
+						"9": [
+							"legend lore",
+							"scrying"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Knowledge Domain|Cleric||Knowledge||1",
+				"Channel Divinity: Knowledge of the Ages|Cleric||Knowledge||2",
+				"Channel Divinity: Read Thoughts|Cleric||Knowledge||6",
+				"Potent Spellcasting|Cleric||Knowledge||8",
+				"Blessed Strikes|Cleric||Knowledge||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Knowledge||8|TCE",
+				"Visions of the Past|Cleric||Knowledge||17"
+			]
+		},
+		{
+			"name": "Life Domain",
+			"shortName": "Life",
+			"source": "PHB",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 60,
+			"srd": true,
+			"basicRules": true,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"bless",
+							"cure wounds"
+						],
+						"3": [
+							"lesser restoration",
+							"spiritual weapon"
+						],
+						"5": [
+							"beacon of hope",
+							"revivify"
+						],
+						"7": [
+							"death ward",
+							"guardian of faith"
+						],
+						"9": [
+							"mass cure wounds",
+							"raise dead"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Life Domain|Cleric||Life||1",
+				"Channel Divinity: Preserve Life|Cleric||Life||2",
+				"Blessed Healer|Cleric||Life||6",
+				"Divine Strike|Cleric||Life||8",
+				"Blessed Strikes|Cleric||Life||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Life||8|TCE",
+				"Supreme Healing|Cleric||Life||17"
+			]
+		},
+		{
+			"name": "Light Domain",
+			"shortName": "Light",
+			"source": "PHB",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 60,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"burning hands",
+							"faerie fire"
+						],
+						"3": [
+							"flaming sphere",
+							"scorching ray"
+						],
+						"5": [
+							"daylight",
+							"fireball"
+						],
+						"7": [
+							"guardian of faith",
+							"wall of fire"
+						],
+						"9": [
+							"flame strike",
+							"scrying"
+						]
+					},
+					"known": {
+						"1": [
+							"light#c"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Light Domain|Cleric||Light||1",
+				"Channel Divinity: Radiance of the Dawn|Cleric||Light||2",
+				"Improved Flare|Cleric||Light||6",
+				"Potent Spellcasting|Cleric||Light||8",
+				"Blessed Strikes|Cleric||Light||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Light||8|TCE",
+				"Corona of Light|Cleric||Light||17"
+			]
+		},
+		{
+			"name": "Nature Domain",
+			"shortName": "Nature",
+			"source": "PHB",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 61,
+			"additionalSpells": [
+				{
+					"known": {
+						"1": {
+							"_": [
+								{
+									"choose": "level=0|class=Druid"
+								}
+							]
+						}
+					},
+					"prepared": {
+						"1": [
+							"animal friendship",
+							"speak with animals"
+						],
+						"3": [
+							"barkskin",
+							"spike growth"
+						],
+						"5": [
+							"plant growth",
+							"wind wall"
+						],
+						"7": [
+							"dominate beast",
+							"grasping vine"
+						],
+						"9": [
+							"insect plague",
+							"tree stride"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Nature Domain|Cleric||Nature||1",
+				"Channel Divinity: Charm Animals and Plants|Cleric||Nature||2",
+				"Dampen Elements|Cleric||Nature||6",
+				"Divine Strike|Cleric||Nature||8",
+				"Blessed Strikes|Cleric||Nature||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Nature||8|TCE",
+				"Master of Nature|Cleric||Nature||17"
+			]
+		},
+		{
+			"name": "Tempest Domain",
+			"shortName": "Tempest",
+			"source": "PHB",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 62,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"fog cloud",
+							"thunderwave"
+						],
+						"3": [
+							"gust of wind",
+							"shatter"
+						],
+						"5": [
+							"call lightning",
+							"sleet storm"
+						],
+						"7": [
+							"control water",
+							"ice storm"
+						],
+						"9": [
+							"destructive wave",
+							"insect plague"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Tempest Domain|Cleric||Tempest||1",
+				"Channel Divinity: Destructive Wrath|Cleric||Tempest||2",
+				"Thunderbolt Strike|Cleric||Tempest||6",
+				"Divine Strike|Cleric||Tempest||8",
+				"Blessed Strikes|Cleric||Tempest||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Tempest||8|TCE",
+				"Stormborn|Cleric||Tempest||17"
+			]
+		},
+		{
+			"name": "Trickery Domain",
+			"shortName": "Trickery",
+			"source": "PHB",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 62,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"charm person",
+							"disguise self"
+						],
+						"3": [
+							"mirror image",
+							"pass without trace"
+						],
+						"5": [
+							"blink",
+							"dispel magic"
+						],
+						"7": [
+							"dimension door",
+							"polymorph"
+						],
+						"9": [
+							"dominate person",
+							"modify memory"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Trickery Domain|Cleric||Trickery||1",
+				"Channel Divinity: Invoke Duplicity|Cleric||Trickery||2",
+				"Channel Divinity: Cloak of Shadows|Cleric||Trickery||6",
+				"Divine Strike|Cleric||Trickery||8",
+				"Blessed Strikes|Cleric||Trickery||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Trickery||8|TCE",
+				"Improved Duplicity|Cleric||Trickery||17"
+			]
+		},
+		{
+			"name": "War Domain",
+			"shortName": "War",
+			"source": "PHB",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 63,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"divine favor",
+							"shield of faith"
+						],
+						"3": [
+							"magic weapon",
+							"spiritual weapon"
+						],
+						"5": [
+							"crusader's mantle",
+							"spirit guardians"
+						],
+						"7": [
+							"freedom of movement",
+							"stoneskin"
+						],
+						"9": [
+							"flame strike",
+							"hold monster"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"War Domain|Cleric||War||1",
+				"Channel Divinity: Guided Strike|Cleric||War||2",
+				"Channel Divinity: War God's Blessing|Cleric||War||6",
+				"Divine Strike|Cleric||War||8",
+				"Blessed Strikes|Cleric||War||8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||War||8|TCE",
+				"Avatar of Battle|Cleric||War||17"
+			]
+		},
+		{
+			"name": "Death Domain",
+			"shortName": "Death",
+			"source": "DMG",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 96,
+			"additionalSpells": [
+				{
+					"known": {
+						"1": {
+							"_": [
+								{
+									"choose": "level=0|school=N",
+									"count": 1
+								}
+							]
+						}
+					},
+					"prepared": {
+						"1": [
+							"false life",
+							"ray of sickness"
+						],
+						"3": [
+							"blindness/deafness",
+							"ray of enfeeblement"
+						],
+						"5": [
+							"animate dead",
+							"vampiric touch"
+						],
+						"7": [
+							"blight",
+							"death ward"
+						],
+						"9": [
+							"antilife shell",
+							"cloudkill"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Death Domain|Cleric||Death|DMG|1",
+				"Channel Divinity: Touch of Death|Cleric||Death|DMG|2",
+				"Inescapable Destruction|Cleric||Death|DMG|6",
+				"Divine Strike|Cleric||Death|DMG|8",
+				"Blessed Strikes|Cleric||Death|DMG|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Death|DMG|8|TCE",
+				"Improved Reaper|Cleric||Death|DMG|17"
+			]
+		},
+		{
+			"name": "Arcana Domain",
+			"shortName": "Arcana",
+			"source": "SCAG",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 125,
+			"additionalSpells": [
+				{
+					"known": {
+						"1": {
+							"_": [
+								{
+									"choose": "level=0|class=Wizard",
+									"count": 2
+								}
+							]
+						}
+					},
+					"prepared": {
+						"1": [
+							"detect magic",
+							"magic missile"
+						],
+						"3": [
+							"magic weapon",
+							"Nystul's magic aura"
+						],
+						"5": [
+							"dispel magic",
+							"magic circle"
+						],
+						"7": [
+							"arcane eye",
+							"Leomund's secret chest"
+						],
+						"9": [
+							"planar binding",
+							"teleportation circle"
+						],
+						"17": [
+							{
+								"choose": "level=6|class=Wizard"
+							},
+							{
+								"choose": "level=7|class=Wizard"
+							},
+							{
+								"choose": "level=8|class=Wizard"
+							},
+							{
+								"choose": "level=9|class=Wizard"
+							}
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Arcana Domain|Cleric||Arcana|SCAG|1",
+				"Channel Divinity: Arcane Abjuration|Cleric||Arcana|SCAG|2",
+				"Spell Breaker|Cleric||Arcana|SCAG|6",
+				"Potent Spellcasting|Cleric||Arcana|SCAG|8",
+				"Blessed Strikes|Cleric||Arcana|SCAG|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Arcana|SCAG|8|TCE",
+				"Arcane Mastery|Cleric||Arcana|SCAG|17"
+			]
+		},
+		{
+			"name": "Forge Domain",
+			"shortName": "Forge",
+			"source": "XGE",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 18,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"identify",
+							"searing smite"
+						],
+						"3": [
+							"heat metal",
+							"magic weapon"
+						],
+						"5": [
+							"elemental weapon",
+							"protection from energy"
+						],
+						"7": [
+							"fabricate",
+							"wall of fire"
+						],
+						"9": [
+							"animate objects",
+							"creation"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Forge Domain|Cleric||Forge|XGE|1",
+				"Channel Divinity: Artisan's Blessing|Cleric||Forge|XGE|2",
+				"Soul of the Forge|Cleric||Forge|XGE|6",
+				"Divine Strike|Cleric||Forge|XGE|8",
+				"Blessed Strikes|Cleric||Forge|XGE|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Forge|XGE|8|TCE",
+				"Saint of Forge and Fire|Cleric||Forge|XGE|17"
+			]
+		},
+		{
+			"name": "Grave Domain",
+			"shortName": "Grave",
+			"source": "XGE",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 19,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"bane",
+							"false life"
+						],
+						"3": [
+							"gentle repose",
+							"ray of enfeeblement"
+						],
+						"5": [
+							"revivify",
+							"vampiric touch"
+						],
+						"7": [
+							"blight",
+							"death ward"
+						],
+						"9": [
+							"antilife shell",
+							"raise dead"
+						]
+					},
+					"known": {
+						"1": [
+							"spare the dying#c"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Grave Domain|Cleric||Grave|XGE|1",
+				"Channel Divinity: Path to the Grave|Cleric||Grave|XGE|2",
+				"Sentinel at Death's Door|Cleric||Grave|XGE|6",
+				"Potent Spellcasting|Cleric||Grave|XGE|8",
+				"Blessed Strikes|Cleric||Grave|XGE|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Grave|XGE|8|TCE",
+				"Keeper of Souls|Cleric||Grave|XGE|17"
+			]
+		},
+		{
+			"name": "Order Domain",
+			"shortName": "Order",
+			"source": "TCE",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 31,
+			"otherSources": [
+				{
+					"source": "GGR",
+					"page": 25
+				}
+			],
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"command",
+							"heroism"
+						],
+						"3": [
+							"hold person",
+							"zone of truth"
+						],
+						"5": [
+							"mass healing word",
+							"slow"
+						],
+						"7": [
+							"compulsion",
+							"locate creature"
+						],
+						"9": [
+							"commune",
+							"dominate person"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Order Domain|Cleric||Order|TCE|1",
+				"Channel Divinity: Order's Demand|Cleric||Order|TCE|2",
+				"Embodiment of the Law|Cleric||Order|TCE|6",
+				"Divine Strike|Cleric||Order|TCE|8",
+				"Blessed Strikes|Cleric||Order|TCE|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Order|TCE|8|TCE",
+				"Order's Wrath|Cleric||Order|TCE|17"
+			]
+		},
+		{
+			"name": "Peace Domain",
+			"shortName": "Peace",
+			"source": "TCE",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 32,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"heroism",
+							"sanctuary"
+						],
+						"3": [
+							"aid",
+							"warding bond"
+						],
+						"5": [
+							"beacon of hope",
+							"sending"
+						],
+						"7": [
+							"aura of purity",
+							"Otiluke's resilient sphere"
+						],
+						"9": [
+							"greater restoration",
+							"Rary's telepathic bond"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Peace Domain|Cleric||Peace|TCE|1",
+				"Channel Divinity: Balm of Peace|Cleric||Peace|TCE|2",
+				"Protective Bond|Cleric||Peace|TCE|6",
+				"Potent Spellcasting|Cleric||Peace|TCE|8",
+				"Blessed Strikes|Cleric||Peace|TCE|8|TCE",
+				"Expansive Bond|Cleric||Peace|TCE|17"
+			]
+		},
+		{
+			"name": "Twilight Domain",
+			"shortName": "Twilight",
+			"source": "TCE",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 34,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"faerie fire",
+							"sleep"
+						],
+						"3": [
+							"moonbeam",
+							"see invisibility"
+						],
+						"5": [
+							"aura of vitality",
+							"Leomund's tiny hut"
+						],
+						"7": [
+							"aura of life",
+							"greater invisibility"
+						],
+						"9": [
+							"circle of power",
+							"mislead"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Twilight Domain|Cleric|FFA|Twilight|TCE|1",
+				"Channel Divinity: Twilight Sanctuary|Cleric||Twilight|TCE|2",
+				"Steps of Night|Cleric||Twilight|TCE|6",
+				"Divine Strike|Cleric||Twilight|TCE|8",
+				"Blessed Strikes|Cleric||Twilight|TCE|8|TCE",
+				"Twilight Shroud|Cleric||Twilight|TCE|17"
 			]
 		}
 	],
