@@ -19,7 +19,7 @@
 		"dateLastModified": 1682670582,
 		"dependencies": {
 			"subclasses": [
-			"PHB","TCE","XGE","SCAG"],
+			"PHB","TCE","XGE","SCAG","DMG"],
 			"spells":
 			["FateforgeGrimoire","FateforgeGrimoire-srdx"]
 		}
