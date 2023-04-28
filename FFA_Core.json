@@ -9804,7 +9804,7 @@
 		{
 			"name": "Knowledge Domain",
 			"shortName": "Knowledge",
-			"source": "PHB",
+			"source": "FFA",
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 59,
@@ -9835,19 +9835,17 @@
 				}
 			],
 			"subclassFeatures": [
-				"Knowledge Domain|Cleric|FFA|Knowledge||1",
-				"Channel Divinity: Knowledge of the Ages|Cleric|FFA|Knowledge||2",
-				"Channel Divinity: Read Thoughts|Cleric|FFA|Knowledge||6",
-				"Potent Spellcasting|Cleric|FFA|Knowledge||8",
-				"Blessed Strikes|Cleric|FFA|Knowledge||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric|FFA|Knowledge||8|TCE",
-				"Visions of the Past|Cleric|FFA|Knowledge||17"
+				"Knowledge Domain|Cleric|FFA|Knowledge|FFA|1",
+				"Channel Divinity: Knowledge of the Ages|Cleric|FFA|Knowledge|FFA|2",
+				"Channel Divinity: Read Thoughts|Cleric|FFA|Knowledge|FFA|6",
+				"Potent Spellcasting|Cleric|FFA|Knowledge|FFA|8",
+				"Visions of the Past|Cleric|FFA|Knowledge|FFA|17"
 			]
 		},
 		{
 			"name": "Life Domain",
 			"shortName": "Life",
-			"source": "PHB",
+			"source": "FFA",
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 60,
@@ -9880,19 +9878,17 @@
 				}
 			],
 			"subclassFeatures": [
-				"Life Domain|Cleric|FFA|Life||1",
-				"Channel Divinity: Preserve Life|Cleric|FFA|Life||2",
-				"Blessed Healer|Cleric|FFA|Life||6",
-				"Divine Strike|Cleric|FFA|Life||8",
-				"Blessed Strikes|Cleric|FFA|Life||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric|FFA|Life||8|TCE",
-				"Supreme Healing|Cleric|FFA|Life||17"
+				"Life Domain|Cleric|FFA|Life|FFA|1",
+				"Channel Divinity: Preserve Life|Cleric|FFA|Life|FFA|2",
+				"Blessed Healer|Cleric|FFA|Life|FFA|6",
+				"Divine Strike|Cleric|FFA|Life|FFA|8",
+				"Supreme Healing|Cleric|FFA|Life|FFA|17"
 			]
 		},
 		{
 			"name": "Light Domain",
 			"shortName": "Light",
-			"source": "PHB",
+			"source": "FFA",
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 60,
@@ -9928,19 +9924,17 @@
 				}
 			],
 			"subclassFeatures": [
-				"Light Domain|Cleric|FFA|Light||1",
-				"Channel Divinity: Radiance of the Dawn|Cleric|FFA|Light||2",
-				"Improved Flare|Cleric|FFA|Light||6",
-				"Potent Spellcasting|Cleric|FFA|Light||8",
-				"Blessed Strikes|Cleric|FFA|Light||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric|FFA|Light||8|TCE",
-				"Corona of Light|Cleric|FFA|Light||17"
+				"Light Domain|Cleric|FFA|Light|FFA|1",
+				"Channel Divinity: Radiance of the Dawn|Cleric|FFA|Light|FFA|2",
+				"Improved Flare|Cleric|FFA|Light|FFA|6",
+				"Potent Spellcasting|Cleric|FFA|Light|FFA|8",
+				"Corona of Light|Cleric|FFA|Light|FFA|17"
 			]
 		},
 		{
 			"name": "Nature Domain",
 			"shortName": "Nature",
-			"source": "PHB",
+			"source": "FFA",
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 61,
@@ -9980,19 +9974,17 @@
 				}
 			],
 			"subclassFeatures": [
-				"Nature Domain|Cleric|FFA|Nature||1",
-				"Channel Divinity: Charm Animals and Plants|Cleric|FFA|Nature||2",
-				"Dampen Elements|Cleric|FFA|Nature||6",
-				"Divine Strike|Cleric|FFA|Nature||8",
-				"Blessed Strikes|Cleric|FFA|Nature||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric|FFA|Nature||8|TCE",
-				"Master of Nature|Cleric|FFA|Nature||17"
+				"Nature Domain|Cleric|FFA|Nature|FFA|1",
+				"Channel Divinity: Charm Animals and Plants|Cleric|FFA|Nature|FFA|2",
+				"Dampen Elements|Cleric|FFA|Nature|FFA|6",
+				"Divine Strike|Cleric|FFA|Nature|FFA|8",
+				"Master of Nature|Cleric|FFA|Nature|FFA|17"
 			]
 		},
 		{
 			"name": "Tempest Domain",
 			"shortName": "Tempest",
-			"source": "PHB",
+			"source": "FFA",
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 62,
@@ -10023,19 +10015,17 @@
 				}
 			],
 			"subclassFeatures": [
-				"Tempest Domain|Cleric|FFA|Tempest||1",
-				"Channel Divinity: Destructive Wrath|Cleric|FFA|Tempest||2",
-				"Thunderbolt Strike|Cleric|FFA|Tempest||6",
-				"Divine Strike|Cleric|FFA|Tempest||8",
-				"Blessed Strikes|Cleric|FFA|Tempest||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric|FFA|Tempest||8|TCE",
-				"Stormborn|Cleric|FFA|Tempest||17"
+				"Tempest Domain|Cleric|FFA|Tempest|FFA|1",
+				"Channel Divinity: Destructive Wrath|Cleric|FFA|Tempest|FFA|2",
+				"Thunderbolt Strike|Cleric|FFA|Tempest|FFA|6",
+				"Divine Strike|Cleric|FFA|Tempest|FFA|8",
+				"Stormborn|Cleric|FFA|Tempest|FFA|17"
 			]
 		},
 		{
 			"name": "Trickery Domain",
 			"shortName": "Trickery",
-			"source": "PHB",
+			"source": "FFA",
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 62,
@@ -10066,19 +10056,17 @@
 				}
 			],
 			"subclassFeatures": [
-				"Trickery Domain|Cleric|FFA|Trickery||1",
-				"Channel Divinity: Invoke Duplicity|Cleric|FFA|Trickery||2",
-				"Channel Divinity: Cloak of Shadows|Cleric|FFA|Trickery||6",
-				"Divine Strike|Cleric|FFA|Trickery||8",
-				"Blessed Strikes|Cleric|FFA|Trickery||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric|FFA|Trickery||8|TCE",
-				"Improved Duplicity|Cleric|FFA|Trickery||17"
+				"Trickery Domain|Cleric|FFA|Trickery|FFA|1",
+				"Channel Divinity: Invoke Duplicity|Cleric|FFA|Trickery|FFA|2",
+				"Channel Divinity: Cloak of Shadows|Cleric|FFA|Trickery|FFA|6",
+				"Divine Strike|Cleric|FFA|Trickery|FFA|8",
+				"Improved Duplicity|Cleric|FFA|Trickery|FFA|17"
 			]
 		},
 		{
 			"name": "War Domain",
 			"shortName": "War",
-			"source": "PHB",
+			"source": "FFA",
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 63,
@@ -10109,19 +10097,17 @@
 				}
 			],
 			"subclassFeatures": [
-				"War Domain|Cleric|FFA|War||1",
-				"Channel Divinity: Guided Strike|Cleric|FFA|War||2",
-				"Channel Divinity: War God's Blessing|Cleric|FFA|War||6",
-				"Divine Strike|Cleric|FFA|War||8",
-				"Blessed Strikes|Cleric|FFA|War||8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric|FFA|War||8|TCE",
-				"Avatar of Battle|Cleric|FFA|War||17"
+				"War Domain|Cleric|FFA|War|FFA|1",
+				"Channel Divinity: Guided Strike|Cleric|FFA|War|FFA|2",
+				"Channel Divinity: War God's Blessing|Cleric|FFA|War|FFA|6",
+				"Divine Strike|Cleric|FFA|War|FFA|8",
+				"Avatar of Battle|Cleric|FFA|War|FFA|17"
 			]
 		},
 		{
 			"name": "Death Domain",
 			"shortName": "Death",
-			"source": "DMG",
+			"source": "FFA",
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 96,
@@ -10174,7 +10160,7 @@
 		{
 			"name": "Arcana Domain",
 			"shortName": "Arcana",
-			"source": "SCAG",
+			"source": "FFA",
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 125,
@@ -10241,7 +10227,7 @@
 		{
 			"name": "Forge Domain",
 			"shortName": "Forge",
-			"source": "XGE",
+			"source": "FFA",
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 18,
