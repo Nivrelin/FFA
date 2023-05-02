@@ -9970,8 +9970,6 @@
 			"className": "Cleric",
 			"classSource": "FFA",
 			"page": 60,
-			"srd": true,
-			"basicRules": true,
 			"additionalSpells": [
 				{
 					"prepared": {
@@ -10555,6 +10553,252 @@
 				"Steps of Night|Cleric|FFA|Twilight|FFA|6",
 				"Divine Strike|Cleric|FFA|Twilight|FFA|8",
 				"Twilight Shroud|Cleric|FFA|Twilight|FFA|17"
+			]
+		},
+		{
+			"name": "Aberrance Domain",
+			"shortName": "Aberrance",
+			"source": "FFA",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 145,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"false life",
+							"inflict wounds"
+						],
+						"3": [
+							"blindness/deafness",
+							"ray of enfeeblement"
+						],
+						"5": [
+							"bestow curse",
+							"vampiric touch"
+						],
+						"7": [
+							"blight",
+							"confusion"
+						],
+						"9": [
+							"contagion",
+							"dominate person"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Aberrance Domain|Cleric|FFA|Aberrance|FFA|1",
+				"Channel Divinity: Cheat Death|Cleric|FFA|Aberrance|FFA|2",
+				"Channel Divinity: Cruel Mercy|Cleric|FFA|Aberrance|FFA|6",
+				"Stupefying Strike|Cleric|FFA|Aberrance|FFA|8",
+				"Terrifying Presence|Cleric|FFA|Aberrance|FFA|17"
+			]
+		},
+		{
+			"name": "Enigma Domain",
+			"shortName": "Enigma",
+			"source": "FFA",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 146,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"bane",
+							"disguise self"
+						],
+						"3": [
+							"invisibility",
+							"silence"
+						],
+						"5": [
+							"nondetection",
+							"speak with dead"
+						],
+						"7": [
+							"protection from death|FateforgeGrimoire",
+							"divination"
+						],
+						"9": [
+							"geas",
+							"seeming"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Enigma Domain|Cleric|FFA|Enigma|FFA|1",
+				"Channel Divinity: Holy Silence|Cleric|FFA|Enigma|FFA|2",
+				"Channel Divinity: Grievous Offering|Cleric|FFA|Enigma|FFA|6",
+				"Revelation|Cleric|FFA|Enigma|FFA|8",
+				"Intertwined Fates|Cleric|FFA|Enigma|FFA|17"
+			]
+		},
+		{
+			"name": "Force Domain",
+			"shortName": "Force",
+			"source": "FFA",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 147,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"expeditious retreat",
+							"jump"
+						],
+						"3": [
+							"barkskin",
+							"enhance ability"
+						],
+						"5": [
+							"haste",
+							"protection from energy"
+						],
+						"7": [
+							"freedom of movement",
+							"stoneskin"
+						],
+						"9": [
+							"greater restoration",
+							"hold monster"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Force Domain|Cleric|FFA|Force|FFA|1",
+				"Channel Divinity: Strong as an Ox|Cleric|FFA|Force|FFA|2",
+				"Channel Divinity: Divine Whirlwind|Cleric|FFA|Force|FFA|6",
+				"Divine Strike|Cleric|FFA|Force|FFA|8",
+				"Brass Body|Cleric|FFA|Force|FFA|17"
+			]
+		},
+		{
+			"name": "Sharing Domain",
+			"shortName": "Sharing",
+			"source": "FFA",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 149,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"Charm Person",
+							"healing word"
+						],
+						"3": [
+							"augury",
+							"enhance ability"
+						],
+						"5": [
+							"remove curse",
+							"tongues"
+						],
+						"7": [
+							"divination",
+							"guardian of faith|FateforgeGrimoire-SRDx"
+						],
+						"9": [
+							"hallow",
+							"legend lore|FateforgeGrimoire-SRDx"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Sharing Domain|Cleric|FFA|Sharing|FFA|1",
+				"Channel Divinity: Divine Grace|Cleric|FFA|Sharing|FFA|2",
+				"Channel Divinity: Miracle|Cleric|FFA|Sharing|FFA|6",
+				"Soothe|Cleric|FFA|Sharing|FFA|8",
+				"Summon Avatar|Cleric|FFA|Sharing|FFA|17"
+			]
+		},
+		{
+			"name": "Time Domain",
+			"shortName": "Time",
+			"source": "FFA",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 150,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"expeditious retreat",
+							"sanctuary"
+						],
+						"3": [
+							"hold person",
+							"misty step"
+						],
+						"5": [
+							"haste",
+							"slow"
+						],
+						"7": [
+							"dimension door",
+							"freedom of movement"
+						],
+						"9": [
+							"hold monster",
+							"legend lore"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Time Domain|Cleric|FFA|Time|FFA|1",
+				"Channel Divinity: Decisive Instant|Cleric|FFA|Time|FFA|2",
+				"Channel Divinity: What was not|Cleric|FFA|Time|FFA|6",
+				"Divine Distortion|Cleric|FFA|Time|FFA|8",
+				"Keeper of the Hourglass|Cleric|FFA|Time|FFA|17"
+			]
+		},
+		{
+			"name": "Travel Domain",
+			"shortName": "Travel",
+			"source": "FFA",
+			"className": "Cleric",
+			"classSource": "FFA",
+			"page": 151,
+			"additionalSpells": [
+				{
+					"prepared": {
+						"1": [
+							"floating disk",
+							"longstrider"
+						],
+						"3": [
+							"animal messenger",
+							"pass without trace"
+						],
+						"5": [
+							"fly",
+							"water walk"
+						],
+						"7": [
+							"banishment",
+							"conjure minor elemental"
+						],
+						"9": [
+							"telekinesis",
+							"tree stride"
+						]
+					}
+				}
+			],
+			"subclassFeatures": [
+				"Travel Domain|Cleric|FFA|Travel|FFA|1",
+				"Channel Divinity: Speed Burst|Cleric|FFA|Travel|FFA|2",
+				"Channel Divinity: Distant Contact|Cleric|FFA|Travel|FFA|6",
+				"Divine Impact|Cleric|FFA|Travel|FFA|8",
+				"Regroup|Cleric|FFA|Travel|FFA|17"
 			]
 		}
 	],
